@@ -55,11 +55,6 @@
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
   },
   {
-    "id": 1628961,
-    "name": "Kostas Antetokounmpo",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628961.png"
-  },
-  {
     "id": 203648,
     "name": "Thanasis Antetokounmpo",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203648.png"
@@ -75,11 +70,6 @@
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png"
   },
   {
-    "id": 1627853,
-    "name": "Ryan Arcidiacono",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627853.png"
-  },
-  {
     "id": 1630166,
     "name": "Deni Avdija",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png"
@@ -88,11 +78,6 @@
     "id": 1629028,
     "name": "Deandre Ayton",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png"
-  },
-  {
-    "id": 1628962,
-    "name": "Udoka Azubuike",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628962.png"
   },
   {
     "id": 1628963,
@@ -108,11 +93,6 @@
     "id": 1630163,
     "name": "LaMelo Ball",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png"
-  },
-  {
-    "id": 1629071,
-    "name": "LiAngelo Ball",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629071.png"
   },
   {
     "id": 1628366,
@@ -160,34 +140,14 @@
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png"
   },
   {
-    "id": 203115,
-    "name": "Will Barton",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203115.png"
-  },
-  {
     "id": 1629646,
     "name": "Charles Bassey",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.png"
   },
   {
-    "id": 1628966,
-    "name": "Keita Bates-Diop",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628966.png"
-  },
-  {
     "id": 201587,
     "name": "Nicolas Batum",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201587.png"
-  },
-  {
-    "id": 203145,
-    "name": "Kent Bazemore",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203145.png"
-  },
-  {
-    "id": 1629647,
-    "name": "Darius Bazley",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629647.png"
   },
   {
     "id": 203078,
@@ -205,34 +165,9 @@
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630699.png"
   },
   {
-    "id": 1631262,
-    "name": "Jules Bernard",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631262.png"
-  },
-  {
-    "id": 202722,
-    "name": "Davis Bertans",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202722.png"
-  },
-  {
-    "id": 201976,
-    "name": "Patrick Beverley",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201976.png"
-  },
-  {
     "id": 1630180,
     "name": "Saddiq Bey",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.png"
-  },
-  {
-    "id": 1631234,
-    "name": "Marcus Bingham Jr.",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631234.png"
-  },
-  {
-    "id": 203920,
-    "name": "Khem Birch",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203920.png"
   },
   {
     "id": 1629048,
@@ -245,34 +180,14 @@
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202687.png"
   },
   {
-    "id": 1631205,
-    "name": "Buddy Boeheim",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631205.png"
-  },
-  {
     "id": 203992,
     "name": "Bogdan Bogdanovic",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203992.png"
   },
   {
-    "id": 202711,
-    "name": "Bojan Bogdanovic",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202711.png"
-  },
-  {
     "id": 1629626,
     "name": "Bol Bol",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.png"
-  },
-  {
-    "id": 1629716,
-    "name": "Marques Bolden",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629716.png"
-  },
-  {
-    "id": 1630195,
-    "name": "Leandro Bolmaro",
-    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630195.png"
   },
   {
     "id": 1626164,
@@ -2908,5 +2823,9 @@
     "id": 1627826,
     "name": "Ivica Zubac",
     "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627826.png"
-  }
+  },
+  {
+    "id": 1234567,
+    "name": "Victor Wembanyama",
+  },
 ]
